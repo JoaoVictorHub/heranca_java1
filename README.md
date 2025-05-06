@@ -1,0 +1,1 @@
+Programa em Java com todas as classes no mesmo programa, usando herança, parecido com o exemplo do "animal, gato e cachorro". (https://github.com/GeorgeMendesMarra/GeorgeMendesMarra/tree/main/poo_java/heranca)
